@@ -1,0 +1,22 @@
+{
+  "name": "ej-javascript-local-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "characters-all": "node characters-all.js",
+    "characters-by-species": "node characters-by-species.js",
+    "characters-by-species2": "node characters-by-species2.js",
+    "characters-by-species3": "node characters-by-species3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unq-ui/ej-javascript-local-data.git"
+  },
+  "author": "Leandro Di Lorenzo <leandro.jdl@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unq-ui/ej-javascript-local-data/issues"
+  },
+  "homepage": "https://github.com/unq-ui/ej-javascript-local-data#readme"
+}
